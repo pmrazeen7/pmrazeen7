@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razeen</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img src="https://www.linkedin.com/pulse/c-programming-bimal-jalan"/>
+<img src="[https://www.linkedin.com/pulse/c-programming-bimal-jalan](https://media.licdn.com/dms/image/C4E12AQGqXjmnyuB71g/article-cover_image-shrink_600_2000/0/1624433257039?e=2147483647&v=beta&t=Xm3dRN6delJi5D3Hl8l8ZYJYvUuSvuPzntU5W3KV6dg)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmrazeen7&label=Profile%20views&color=0e75b6&style=flat" alt="pmrazeen7" /> </p>
 
