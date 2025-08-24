@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" alt="Banner" width="100%" />
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Banner" width="100%" />
 </p>
+
+<br/>
+💻 Aspiring Software Developer | Computer Science Engineering Student turned Tech Enthusiast<br/>
+⚡ Passionate about Web Development, AI/ML, and Databases<br/>
+📚 Currently learning Fullstack Development & Machine Learning<br/>
+🏆 Solving problems on LeetCode and building real-world projects<br/>
+🌟 Fun fact: Huge fan of Cristiano Ronaldo ⚽<br/>
 
 ## 🌐 Socials:
 <div align="center">
