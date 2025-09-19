@@ -7,7 +7,7 @@
 ⚡ Passionate about Web Development, AI/ML, and Databases<br/>
 📚 Currently learning Fullstack Development & Machine Learning<br/>
 🏆 Solving problems on LeetCode and building real-world projects<br/>
-🌟 Fun fact: Huge fan of Cristiano Ronaldo ⚽<br/>
+
 
 ## 🌐 Socials:
 <div align="center">
